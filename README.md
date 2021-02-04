@@ -1,5 +1,7 @@
 
-High resolution movies and supplemental files which accompany Lee and Laughlin et al.
+High resolution movies and supplemental files which accompany:
+
+Lee, C. T.; Laughlin, J. G.; Beaumelle, N. A. de L.; Amaro, R. E.; McCammon, J. A.; Ramamoorthi, R.; Holst, M.; Rangamani, P. 3D Mesh Processing Using GAMer 2 to Enable Reaction-Diffusion Simulations in Realistic Cellular Geometries. PLOS Computational Biology 2020, 16 (4), e1007756. https://doi.org/10.1371/journal.pcbi.1007756.
 
 Supplemental Movies (Encoded with HEVC/h.265):
 
